@@ -34,7 +34,7 @@
             <mxPoint x="190" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4yKiNk9kET4KU21q-fLA-9" value="u(k)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=7;" vertex="1" parent="1">
+        <mxCell id="4yKiNk9kET4KU21q-fLA-9" value="u(k)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="50" y="113" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4yKiNk9kET4KU21q-fLA-10" value="q(k)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" vertex="1" parent="1">
