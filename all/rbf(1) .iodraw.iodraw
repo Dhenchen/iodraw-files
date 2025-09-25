@@ -254,7 +254,7 @@
           <mxGeometry x="510" y="994" width="83" height="65" as="geometry" />
         </mxCell>
         <mxCell id="iVRhebt7hGaM7vXH7n6y-54" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Missing output prediction&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#9673a6;strokeWidth=2;fillColor=#CCCCFF;" parent="1" vertex="1">
-          <mxGeometry x="398" y="974" width="72" height="100" as="geometry" />
+          <mxGeometry x="442" y="781.5" width="51" height="76.5" as="geometry" />
         </mxCell>
         <mxCell id="iVRhebt7hGaM7vXH7n6y-56" value="&#xa;Redundant rule transformation&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="180" y="982" width="160" height="77" as="geometry" />
