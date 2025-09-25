@@ -4,15 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="iVRhebt7hGaM7vXH7n6y-66" value="" style="endArrow=classic;html=1;fontSize=14;entryX=1;entryY=0.25;entryDx=0;entryDy=0;rounded=0;strokeWidth=2;strokeColor=#666666;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="491" y="959" as="sourcePoint" />
-            <mxPoint x="475" y="1011.5" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="491" y="1011.5" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="iVRhebt7hGaM7vXH7n6y-22" value="" style="endArrow=classic;html=1;fillColor=#b1ddf0;strokeWidth=2;strokeColor=#99CCFF;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="321" y="931" as="sourcePoint" />
@@ -251,7 +242,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iVRhebt7hGaM7vXH7n6y-53" value="Predictive gradient" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;strokeColor=#0066CC;fillColor=#A9C4EB;" parent="1" vertex="1">
-          <mxGeometry x="251" y="1025" width="83" height="65" as="geometry" />
+          <mxGeometry x="308" y="970" width="83" height="65" as="geometry" />
         </mxCell>
         <mxCell id="iVRhebt7hGaM7vXH7n6y-54" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Missing output prediction&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#9673a6;strokeWidth=2;fillColor=#CCCCFF;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="460" y="821" width="59" height="79" as="geometry" />
@@ -306,7 +297,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="h4o6OnOVw48R7T7iYl4H-9" value="&#xa;Intelligent search optimization&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="356" y="988" width="120" height="60" as="geometry" />
+          <mxGeometry x="418" y="965" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
