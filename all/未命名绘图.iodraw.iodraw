@@ -25,7 +25,7 @@
         <mxCell id="4yKiNk9kET4KU21q-fLA-6" value="&#xa;&lt;span&gt;&lt;span&gt;Cost Function&#xa;&lt;/span&gt;&lt;/span&gt;&lt;span&gt;J(k) = ½ϖ²(k)&#xa;&lt;/span&gt;&lt;span&gt;+ λ(t)/2||Δχ̄(k)||²&lt;/span&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4yKiNk9kET4KU21q-fLA-7" value="&#xa;&lt;span&gt;&lt;span&gt;Parameter&#xa;&lt;/span&gt;&lt;/span&gt;&lt;span&gt;Estimation&#xa;&lt;/span&gt;&lt;span&gt;ϑ̂(k;b) = Σω(k;s)ϑ̂(k;s)&lt;/span&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4yKiNk9kET4KU21q-fLA-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="480" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
