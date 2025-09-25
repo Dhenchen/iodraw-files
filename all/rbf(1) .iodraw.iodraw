@@ -257,7 +257,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iVRhebt7hGaM7vXH7n6y-56" value="&#xa;Redundant rule transformation&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;fontSize=10;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="257.5" y="787" width="77" height="38" as="geometry" />
+          <mxGeometry x="257.5" y="788" width="77" height="38" as="geometry" />
         </mxCell>
         <mxCell id="iVRhebt7hGaM7vXH7n6y-78" value="" style="endArrow=classic;html=1;fontSize=14;entryX=0;entryY=0.5;entryDx=0;entryDy=0;rounded=0;fillColor=#d5e8d4;strokeWidth=2;strokeColor=#4C0099;" parent="1" target="iVRhebt7hGaM7vXH7n6y-19" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
