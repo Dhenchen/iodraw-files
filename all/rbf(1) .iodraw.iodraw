@@ -184,7 +184,7 @@
         </mxCell>
         <mxCell id="iVRhebt7hGaM7vXH7n6y-18" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeWidth=2;strokeColor=#4C0099;" parent="1" target="iVRhebt7hGaM7vXH7n6y-14" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="141" y="759" as="sourcePoint" />
+            <mxPoint x="171" y="759" as="sourcePoint" />
             <mxPoint x="205" y="734" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -220,6 +220,9 @@
         </mxCell>
         <mxCell id="iVRhebt7hGaM7vXH7n6y-51" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 17px&quot;&gt;Cost function&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;strokeWidth=2;fillColor=#CCE5FF;" parent="1" vertex="1">
           <mxGeometry x="599.5" y="996" width="100" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="h4o6OnOVw48R7T7iYl4H-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iVRhebt7hGaM7vXH7n6y-53" target="iVRhebt7hGaM7vXH7n6y-21">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iVRhebt7hGaM7vXH7n6y-53" value="Predictive gradient" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;strokeColor=#0066CC;fillColor=#A9C4EB;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="230" y="990" width="138" height="44" as="geometry" />
