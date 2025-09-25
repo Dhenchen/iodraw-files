@@ -257,7 +257,7 @@
           <mxGeometry x="457" y="787" width="64" height="88.5" as="geometry" />
         </mxCell>
         <mxCell id="iVRhebt7hGaM7vXH7n6y-56" value="&#xa;Redundant rule transformation&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="195" y="970" width="160" height="77" as="geometry" />
+          <mxGeometry x="91" y="787" width="160" height="77" as="geometry" />
         </mxCell>
         <mxCell id="iVRhebt7hGaM7vXH7n6y-62" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;rounded=0;fillColor=#fad9d5;strokeWidth=2;strokeColor=#0066CC;" parent="1" source="iVRhebt7hGaM7vXH7n6y-43" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -304,12 +304,6 @@
         </mxCell>
         <mxCell id="iVRhebt7hGaM7vXH7n6y-84" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 16px&quot;&gt;$$e(k)$$&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="549.5" y="675" width="50" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="u1Oq5JD86DdHkVitLdtq-3" value="" style="endArrow=classic;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#b1ddf0;strokeWidth=2;strokeColor=#99CCFF;" parent="1" target="iVRhebt7hGaM7vXH7n6y-56" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="398" y="1020" as="sourcePoint" />
-            <mxPoint x="448" y="970" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="h4o6OnOVw48R7T7iYl4H-4" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
