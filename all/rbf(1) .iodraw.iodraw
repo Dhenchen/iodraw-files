@@ -302,7 +302,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="h4o6OnOVw48R7T7iYl4H-29" value="&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Redundant rule transformation&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="793" width="120" height="60" as="geometry" />
+          <mxGeometry x="362" y="791" width="103" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
