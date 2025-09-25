@@ -219,13 +219,13 @@
           <mxGeometry x="607" y="917" width="94" height="26" as="geometry" />
         </mxCell>
         <mxCell id="iVRhebt7hGaM7vXH7n6y-51" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 17px&quot;&gt;Cost function&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;strokeWidth=2;fillColor=#CCE5FF;" parent="1" vertex="1">
-          <mxGeometry x="599.5" y="997" width="100" height="32" as="geometry" />
+          <mxGeometry x="599.5" y="996" width="100" height="32" as="geometry" />
         </mxCell>
         <mxCell id="h4o6OnOVw48R7T7iYl4H-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iVRhebt7hGaM7vXH7n6y-53" target="iVRhebt7hGaM7vXH7n6y-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iVRhebt7hGaM7vXH7n6y-53" value="Predictive gradient" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;strokeColor=#0066CC;fillColor=#A9C4EB;" parent="1" vertex="1">
-          <mxGeometry x="277" y="990" width="83" height="44" as="geometry" />
+          <mxGeometry x="222" y="990" width="138" height="44" as="geometry" />
         </mxCell>
         <mxCell id="h4o6OnOVw48R7T7iYl4H-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iVRhebt7hGaM7vXH7n6y-54" target="iVRhebt7hGaM7vXH7n6y-43">
           <mxGeometry relative="1" as="geometry" />
