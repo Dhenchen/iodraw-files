@@ -289,7 +289,7 @@
             <mxPoint x="463" y="870.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="h4o6OnOVw48R7T7iYl4H-9" value="&#xa;Intelligent search optimization&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="h4o6OnOVw48R7T7iYl4H-9" value="&#xa;Intelligent search optimization&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="470" y="979" width="165" height="47" as="geometry" />
         </mxCell>
         <mxCell id="h4o6OnOVw48R7T7iYl4H-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.667;entryY=0.974;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="iVRhebt7hGaM7vXH7n6y-53" target="iVRhebt7hGaM7vXH7n6y-21">
