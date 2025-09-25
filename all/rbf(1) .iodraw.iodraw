@@ -275,6 +275,12 @@
         <mxCell id="h4o6OnOVw48R7T7iYl4H-9" value="Intelligent search optimization" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=12;strokeWidth=2;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="512" y="986" width="109" height="46" as="geometry" />
         </mxCell>
+        <mxCell id="h4o6OnOVw48R7T7iYl4H-41" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="646" y="759" as="sourcePoint" />
+            <mxPoint x="543" y="814" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
