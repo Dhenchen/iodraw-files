@@ -16,7 +16,7 @@
             <mxPoint x="120" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4yKiNk9kET4KU21q-fLA-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4yKiNk9kET4KU21q-fLA-4" value="&#xa;&lt;span&gt;&lt;span&gt;IS-PG Algorithm&#xa;&lt;/span&gt;&lt;/span&gt;&lt;span&gt;1. Predictive gradient: ĝ(k+d)&#xa;&lt;/span&gt;&lt;span&gt;2. Intelligent search steps: d₁ᵏ,...,dₗᵏ&#xa;&lt;/span&gt;&lt;span&gt;3. Multi-step prediction update:&#xa;&lt;/span&gt;&lt;span&gt;   ϑ̂(k;s) = ϑ̂(k-1;b) - r(k)ĝ(k+d(k;s))&#xa;&lt;/span&gt;&lt;span&gt;4. Weight selection: ω(k;s)&lt;/span&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4yKiNk9kET4KU21q-fLA-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
