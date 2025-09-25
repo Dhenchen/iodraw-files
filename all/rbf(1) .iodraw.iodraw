@@ -200,7 +200,7 @@
           <mxGeometry x="295" y="807" width="130" height="54" as="geometry" />
         </mxCell>
         <mxCell id="iVRhebt7hGaM7vXH7n6y-21" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 16px&quot;&gt;Estimated parameters&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="251" y="883.5" width="90" height="47.5" as="geometry" />
+          <mxGeometry x="251" y="882.5" width="90" height="47.5" as="geometry" />
         </mxCell>
         <mxCell id="iVRhebt7hGaM7vXH7n6y-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=classic;endFill=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#4C0099;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -270,11 +270,11 @@
         </mxCell>
         <mxCell id="iVRhebt7hGaM7vXH7n6y-64" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#b1ddf0;strokeWidth=2;strokeColor=#99CCFF;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="180" y="1021" as="sourcePoint" />
-            <mxPoint x="251" y="907.5" as="targetPoint" />
+            <mxPoint x="180" y="1020" as="sourcePoint" />
+            <mxPoint x="251" y="906.5" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="170" y="1021" />
-              <mxPoint x="170" y="908" />
+              <mxPoint x="170" y="1020" />
+              <mxPoint x="170" y="907" />
             </Array>
           </mxGeometry>
         </mxCell>
