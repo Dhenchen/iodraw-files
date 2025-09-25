@@ -225,7 +225,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iVRhebt7hGaM7vXH7n6y-53" value="Predictive gradient" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;strokeColor=#0066CC;fillColor=#A9C4EB;" parent="1" vertex="1">
-          <mxGeometry x="295" y="990" width="83" height="44" as="geometry" />
+          <mxGeometry x="277" y="990" width="83" height="44" as="geometry" />
         </mxCell>
         <mxCell id="h4o6OnOVw48R7T7iYl4H-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iVRhebt7hGaM7vXH7n6y-54" target="iVRhebt7hGaM7vXH7n6y-43">
           <mxGeometry relative="1" as="geometry" />
@@ -276,7 +276,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="h4o6OnOVw48R7T7iYl4H-9" value="Intelligent search optimization" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=12;strokeWidth=2;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="465" y="990" width="109" height="46" as="geometry" />
+          <mxGeometry x="464" y="989" width="109" height="46" as="geometry" />
         </mxCell>
         <mxCell id="h4o6OnOVw48R7T7iYl4H-41" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="iVRhebt7hGaM7vXH7n6y-43">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
