@@ -195,7 +195,7 @@
         </mxCell>
         <mxCell id="iVRhebt7hGaM7vXH7n6y-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=classic;endFill=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#4C0099;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="654" y="865" as="targetPoint" />
+            <mxPoint x="643" y="861" as="targetPoint" />
             <Array as="points">
               <mxPoint x="640" y="864.5" />
             </Array>
